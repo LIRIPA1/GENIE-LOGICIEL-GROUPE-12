@@ -44,3 +44,6 @@ C:\Users\LK Augustin\Documents\Groupe_12\Groupe_12\groupe12\TP2 GENIE LOGICIEL G
 C:\Users\LK Augustin\Documents\Groupe_12\github-Groupe12\TP2 GENIE LOGICIEL GP12\TP2\bin\Debug\TP2.exe.config
 C:\Users\LK Augustin\Documents\Groupe_12\github-Groupe12\TP2 GENIE LOGICIEL GP12\TP2\obj\Debug\TP2.exe
 C:\Users\LK Augustin\Documents\Groupe_12\github-Groupe12\TP2 GENIE LOGICIEL GP12\TP2\obj\Debug\TP2.pdb
+C:\Users\KOFUNDA merveille\Desktop\TP GROUPE12\GENIE-LOGICIEL-GROUPE-12\TP2 GENIE LOGICIEL GP12\TP2\bin\Debug\TP2.exe.config
+C:\Users\KOFUNDA merveille\Desktop\TP GROUPE12\GENIE-LOGICIEL-GROUPE-12\TP2 GENIE LOGICIEL GP12\TP2\obj\Debug\TP2.exe
+C:\Users\KOFUNDA merveille\Desktop\TP GROUPE12\GENIE-LOGICIEL-GROUPE-12\TP2 GENIE LOGICIEL GP12\TP2\obj\Debug\TP2.pdb
