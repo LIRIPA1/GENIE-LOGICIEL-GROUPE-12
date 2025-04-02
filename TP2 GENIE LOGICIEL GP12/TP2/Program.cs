@@ -22,10 +22,11 @@ namespace TP2
             Teacher t1 = new Teacher("LIRIPA", "KPAKI", "22LSILJ670206");
             Teacher t2 = new Teacher("longa", "clement", "20IGGJ008842");
             Student s1 = new Student("LIRIPA" , "KPAKI", "22LSILJ670206");
-
+            Student s2 = new Student("KYAKIMWA" , "IRENE", "23LIAGELJ1070467");
             t1.Add(2);
             t2.Add(1);
             s1.Add(2);
+            s2.Add(2);
 
             t1.show(1,2);
             Console.WriteLine("\n===============\n");
