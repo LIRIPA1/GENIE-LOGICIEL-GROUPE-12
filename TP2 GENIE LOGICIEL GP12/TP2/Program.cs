@@ -19,7 +19,7 @@ namespace TP2
 
             Console.WriteLine("ABSTRACT CLASS");
             Console.WriteLine("===============\n");
-            Teacher t1 = new Teacher("LISA", "SIHERYA", "22LIAGELJ60020");
+            Teacher t1 = new Teacher("LISA", "SIHERYA", "22LIAGELJ60002");
             Teacher t2 = new Teacher("longa", "clement", "20IGGJ008842");
             Student s1 = new Student("LIRIPA" , "KPAKI", "22LSILJ670206");
             Student s2 = new Student("KYAKIMWA" , "IRENE", "23LIAGELJ1070467");
